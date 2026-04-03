@@ -1,4 +1,4 @@
-# Digital_Wallet_dashboaed
+# Digital_Wallet_dashboard
 Interactive Dashboard analyzing Digital Wallet transactions and payment performance using Excel.
 # 📊 Excel Dashboard Project – Financial & Transaction Analysis
 
